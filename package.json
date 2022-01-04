@@ -42,7 +42,6 @@
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Shahidur48/user-guide-frontend.git"
@@ -52,5 +51,8 @@
   "bugs": {
     "url": "https://github.com/Shahidur48/user-guide-frontend/issues"
   },
-  "homepage": "https://github.com/Shahidur48/user-guide-frontend#readme"
+  "homepage": "https://github.com/Shahidur48/user-guide-frontend#readme",
+  "optionalDependencies": {
+    "fsevents": "^2.3.2"
+  }
 }
